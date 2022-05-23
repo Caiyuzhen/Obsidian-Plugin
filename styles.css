@@ -1,4 +1,18 @@
 /* Sets all the text color to red! */
+
+:root {
+    --background-color-primary: #fbf1c7;
+    --background-color-secondary: #d5c4a1;
+    }
+
+
 body {
-    color: red;
+    color: rgb(170, 0, 255);
+}
+
+
+.markdown-preview-section
+{
+    /* background-color: var(--background-color-primary); */
+    background-color: #000000;
 }
